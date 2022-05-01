@@ -1,3 +1,18 @@
+"""
+Izayah Marchand
+CS162
+5/1/2022
+
+This program is based off of the pomodoro study method where it is four 25 minute study sessions,
+three 5 minute breaks between, and after the last study period there is a 15 minute break.
+This can be split up into 8 intervals. So I made a list of the interval that one of those
+periods would be on, and if the current interval is in one of those lists it would set the timer
+to be that i.e. interval 2 makes the timer a 5 minute study break. This is all within
+the Pomo class and the methods within that are the commands that the buttons do.
+So it uses start_timer: starts the timer, pause_time: pauses the time, and next_b: goes to the 
+next interval. 
+
+"""
 
 import tkinter as tk
 
