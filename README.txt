@@ -5,3 +5,6 @@ To use the next button you need to press it and then start to change the interva
 Once time is up you need to press the next button then the start button. 
 There is a widget below the pause button, It is used to reflect or create goals for the study periods.
 The text can be modified of deleted. 
+
+Reflection: I liked this project a lot. I liked learning the package via videos in moodle and in class.
+I had someproblems putting it into a class, mostly because I initially didn't understand the package too well.
